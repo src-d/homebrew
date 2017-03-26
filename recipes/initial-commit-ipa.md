@@ -2,6 +2,10 @@
 
 source{d}'s first homebrew beer—a humble IPA.
 
+## Label
+
+![GitHub Logo](initial-commit-ipa.png)
+
 ## Characteristics
 Balanced, malty and hoppy. Unfiltered and unpasteurized.
 
