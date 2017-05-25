@@ -1,10 +1,10 @@
-# TODO XXXXXxx - fork knox IPA
+# cbd3913 - fork knox IPA
 
 Proudly forked from [BrewDog/Ace of Equinox](https://untappd.com/b/brewdog-ace-of-equinox/1814200). You can look at [BrewDog's DIY DOG catalog](https://www.brewdog.com/diydog) for the original beer.
 
 ## Label
 
-![TODO XXXXXxx - fork knox IPA Label](fork-knox-ipa.png)
+![cbd3913 - fork knox IPA Label](fork-knox-ipa.png)
 
 ## Characteristics
 
