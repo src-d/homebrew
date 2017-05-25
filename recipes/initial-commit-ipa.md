@@ -11,22 +11,22 @@ Balanced, malty and hoppy. Unfiltered and unpasteurized.
 
 ## Recipe characteristics
 - **Style**: India Pale Ale
-- **Alcohol volume:** ~6.3% ABV
-- **Bitterness:** ~73 IBUs
+- **Alcohol volume:** ```~6.3% ABV```
+- **Bitterness:** ```~73 IBU```
 
 ## Key brewer numbers
-- **Total water used:** 32 L
-- **Final beer volume:** 16 L
-- **OG:** 1060 / **FG:** 1012
+- **Total water used:** ```32 L```
+- **Final beer volume:** ```16 L```
+- **OG:** ```1060``` / **FG:** ```1012```
 - **Hops added:**
-  - 25 g of Amarillo @ 10 min
-  - 25 g of Amarillo @ 15 min
-  - 17 g of Amarillo @ 50 min
-  - 17 g of Amarillo @ 55 min
-- **Primary fermentation:** 5 days
-- **Secondary fermentation:** 8 days
-- **In-bottle fermentation:** 13 days
-- **Carbonation (CO2)**: 2.5 volumes
+  - ```25 g``` of Amarillo @ ```10 min```
+  - ```25 g``` of Amarillo @ ```15 min```
+  - ```17 g``` of Amarillo @ ```50 min```
+  - ```17 g``` of Amarillo @ ```55 min```
+- **Primary fermentation:** ```5 days```
+- **Secondary fermentation:** ```8 days```
+- **In-bottle fermentation:** ```13 days```
+- **Carbonation (CO2)**: ```2.5 volumes```
 
 ## Ingredients
 
@@ -49,4 +49,4 @@ Balanced, malty and hoppy. Unfiltered and unpasteurized.
 
 ## Equipment
 
-[The usual suspects](http://howtobrew.com/book/equipment-descriptions), being the boiling pan 25 L large and the fermenter 20 L large.
+[The usual suspects](http://howtobrew.com/book/equipment-descriptions), being the boiling pan ```25 L``` large and the fermenter ```20 L``` large.
