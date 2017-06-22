@@ -14,6 +14,12 @@ Balanced, malty and hoppy. Unfiltered and unpasteurized.
 - **Alcohol volume:** ```~6.3% ABV```
 - **Bitterness:** ```~73 IBU```
 
+## History
+
+| Batch         | Brewed     | Bottled      |
+|---------------|------------|--------------|
+| #1 (Talks)    | 2017/02/19 | 2017/03/12   |
+
 ## Key brewer numbers
 - **Total water used:** ```32 L```
 - **Final beer volume:** ```16 L```

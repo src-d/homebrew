@@ -2,6 +2,11 @@
 
 Open source brewing efforts, including recipes, brewing process and tips.
 
-Crafted beer until date:
-- 12/03/2017 - [__51951ec - initial commit IPA__](https://github.com/src-d/homebrew/blob/master/recipes/initial-commit-ipa.md) - 16L
-- 19/05/2017 - [__cbd3913 - fork knox IPA__](https://github.com/src-d/homebrew/blob/master/recipes/fork-knox-ipa.md) - 20L
+## Crafted beers
+
+| Beer          | Style | Brewed     | Bottled      | Volume | Event |
+|---------------|-------|------------|--------------|-------:|-------|
+| [__51951ec - initial commit IPA__](https://github.com/src-d/homebrew/blob/master/recipes/initial-commit-ipa.md) | IPA |  2017/02/19 | 2017/03/12   | 16 L| [source{d} tech talks - Infrastructure](http://talks.sourced.tech/infra-2017) |
+| [__cbd3913 - fork knox Session IPA__](https://github.com/src-d/homebrew/blob/master/recipes/fork-knox-ipa.md)    | Session IPA |  2017/04/19 | 2017/05/05   | 20 L | [source{d} tech talks - Frontend ]()|
+| TDB | IPA | | | | |
+| WIP | Russian Imperial stout | | | | | |

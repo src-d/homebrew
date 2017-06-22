@@ -1,17 +1,23 @@
-# cbd3913 - fork knox IPA
+# cbd3913 - Fork Knox Session IPA
 
 Proudly forked from [BrewDog/Ace of Equinox](https://untappd.com/b/brewdog-ace-of-equinox/1814200). You can look at [BrewDog's DIY DOG catalog](https://www.brewdog.com/diydog) for the original beer.
 
 ## Label
 
-![cbd3913 - fork knox IPA Label](fork-knox-ipa.png)
+![cbd3913 - fork knox IPA Label](fork-knox-session-ipa.png)
 
 ## Characteristics
 
 Hop-focused, low in strength but aromatic, flavorful and refreshing with a slightly toasty malt base. Mango, pine and grapefruit notes. Unfiltered and unpasteurized.
 - **Style**: Single-Hopped Session IPA
-- **Alcohol volume:** `~4.75% ABV`
-- **Bitterness:** `~40 IBU` 
+- **Alcohol volume:** `~4.5% ABV`
+- **Bitterness:** `~40 IBU`
+
+## History
+
+| Batch         | Brewed     | Bottled      |
+|---------------|------------|--------------|
+| #1 (Talks)    | 2017/04/19 | 2017/05/05   |
 
 ## Key brewer numbers
 
@@ -31,7 +37,7 @@ Hop-focused, low in strength but aromatic, flavorful and refreshing with a sligh
 - **Primary fermentation:** `5 days` @ `20ºC`
 - **Secondary fermentation:** `11 days` @ `20ºC`
 - **Dry hopping:** after `10 days` fermenting, using `190 g` of hop pellets
-- **Bottling:** after `16 days` fermenting, using 
+- **Bottling:** after `16 days` fermenting, using
 - **In-bottle fermentation:** `14 days` @ `20ºC`
 - **Carbonation (CO2)**: `2.6 volumes`
 
