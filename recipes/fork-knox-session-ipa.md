@@ -1,4 +1,4 @@
-# cbd3913 - Fork Knox Session IPA
+# cbd3913 - Fork Knox Session IPA [![Untappd](https://img.shields.io/badge/Untappd-Session%20IPA-yellow.svg)](https://untappd.com/b/source-d-cbd3913-fork-knox-ipa/2135477)
 
 Proudly forked from [BrewDog/Ace of Equinox](https://untappd.com/b/brewdog-ace-of-equinox/1814200). You can look at [BrewDog's DIY DOG catalog](https://www.brewdog.com/diydog) for the original beer.
 
